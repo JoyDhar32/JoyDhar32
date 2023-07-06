@@ -2,16 +2,16 @@
 ![I am a Web Developer ](https://scontent.fcgp6-1.fna.fbcdn.net/v/t1.15752-9/279089834_3198740510399330_9172210824647013047_n.png?_nc_cat=109&ccb=1-5&_nc_sid=ae9488&_nc_eui2=AeG6Yaa3URLEnJp4ykMmFYdLm6gGVdhDTEebqAZV2ENMR4hfMwBW3E6Lbbm0qqBxvsItK3F288lqYsh1fJDXzSlM&_nc_ohc=9tT5VhX8jQkAX9ZPOa0&_nc_ht=scontent.fcgp6-1.fna&oh=03_AVKmhGVIEW3YhxD-0-TQ_vil6xBH3WdPvpK9YzMQmIkUpw&oe=62995E98)
 
 ### Hi there 👋, My name is Joy Dhar
-#### I am a Web Developer 
-I have completed my Bachelor's in Computer Science and Engineering. Presently, I am working as a full-stack web developer at Fiverr. I am good at both web designing and development and bug fixing as well. 
+#### I am a Full Stack Web Developer 
+I am currently pursuing a Master's degree in Information Technology with a specialization in Software Development at UTS. Additionally, I work as a Freelancer, leveraging my skills in web designing, web development, and bug fixing. 
 
-Skills: Bootstrap/ JavaScript/ React Js / PHP / Laravel / Mysqli / Wordpress
+Skills: Bootstrap/ Tailwind/ JavaScript/ React Js / PHP / Laravel / Mysql / Wordpress/ React Native
 
 - 🔭 I’m currently working on Fiverr 
 - 🌱 I’m currently learning React Native 
 - 👯 I’m looking to collaborate on Freelancing 
 - 🤔 I’m looking for help with Mobile Apps 
-- 📫 How to reach me: https://joyustcian.com 
+- 📫 How to reach me: https://joyuts.com 
 - 😄 Pronouns: He/His 
 - ⚡ Fun fact: Whenever I get stress, I play furious and lost maximum games 🙄 
 
