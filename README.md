@@ -1,5 +1,4 @@
 
-![I am a Web Developer ](https://scontent.fcgp6-1.fna.fbcdn.net/v/t1.15752-9/279089834_3198740510399330_9172210824647013047_n.png?_nc_cat=109&ccb=1-5&_nc_sid=ae9488&_nc_eui2=AeG6Yaa3URLEnJp4ykMmFYdLm6gGVdhDTEebqAZV2ENMR4hfMwBW3E6Lbbm0qqBxvsItK3F288lqYsh1fJDXzSlM&_nc_ohc=9tT5VhX8jQkAX9ZPOa0&_nc_ht=scontent.fcgp6-1.fna&oh=03_AVKmhGVIEW3YhxD-0-TQ_vil6xBH3WdPvpK9YzMQmIkUpw&oe=62995E98)
 
 ### Hi there 👋, My name is Joy Dhar
 #### I am a Full Stack Web Developer 
