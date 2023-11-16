@@ -1,5 +1,5 @@
 
-![App Screenshot]([https://raw.githubusercontent.com/JoyDhar32/nextPortfolio/main/website%20images/httpsjoyuts.com.png](https://raw.githubusercontent.com/JoyDhar32/Portfolio/main/src/httpsjoyuts.com.png))
+![App Screenshot](https://raw.githubusercontent.com/JoyDhar32/Portfolio/main/src/httpsjoyuts.com.png)
 
 Hi there 👋, My name is Joy Dhar
  I am a Full Stack Web Developer 
