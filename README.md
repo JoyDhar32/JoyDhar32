@@ -5,7 +5,7 @@ Hi there 👋, My name is Joy Dhar
  I am a Full Stack Web Developer 
 I am currently pursuing a Master's degree in Information Technology with a specialization in Software Development at UTS. Additionally, I work as a Freelancer, leveraging my skills in web designing, web development, and bug fixing. 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=JoyDhar32&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
