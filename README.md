@@ -1,16 +1,7 @@
-
-<!-- ![App Screenshot](https://raw.githubusercontent.com/JoyDhar32/Portfolio/main/src/httpsjoyuts.com.png) -->
-
-
+[App Screenshot](https://raw.githubusercontent.com/JoyDhar32/Portfolio/main/src/httpsjoyuts.com.png) 
 Hi there 👋, My name is Joy Dhar
  I am a Full Stack Web Developer 
 I am currently pursuing a Master's degree in Information Technology with a specialization in Software Development at UTS. Additionally, I work as a Freelancer, leveraging my skills in web designing, web development, and bug fixing. 
-
-
-
-
-
-
 <div align="center" >
   <img src="https://streak-stats.demolab.com?user=JoyDhar32&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
