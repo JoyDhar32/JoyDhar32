@@ -20,7 +20,7 @@ I am currently pursuing a Master's degree in Information Technology with a speci
 <div align="left" style="width:60%;">
   <img src="https://streak-stats.demolab.com?user=JoyDhar32&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-<div align="right" style="width:40%;">
+<div align="right" style="width:20%;">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/joy-dhar-2689ab191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joy-dhar-2689ab191/" height="30" width="40" /></a>
