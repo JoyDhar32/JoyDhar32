@@ -12,7 +12,7 @@ I am currently pursuing a Master's degree in Information Technology with a speci
     <img src="https://streak-stats.demolab.com?user=JoyDhar32&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
   </div>
   <div style="flex: 40%;">
-    <img src="https://streak-stats.demolab.com?user=JoyDhar32&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+   abc
   </div>
 </div>
 
