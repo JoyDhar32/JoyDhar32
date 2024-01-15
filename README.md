@@ -4,7 +4,9 @@
 Hi there 👋, My name is Joy Dhar
  I am a Full Stack Web Developer 
 I am currently pursuing a Master's degree in Information Technology with a specialization in Software Development at UTS. Additionally, I work as a Freelancer, leveraging my skills in web designing, web development, and bug fixing. 
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/joy-dhar-2689ab191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joy-dhar-2689ab191/" height="30" width="40" /></a>
