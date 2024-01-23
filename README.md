@@ -1,7 +1,7 @@
  ![App Screenshot](https://raw.githubusercontent.com/JoyDhar32/Portfolio/main/src/httpsjoyuts.com.png) 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=😊Greetings!!!😊;Welcome To my Profile!!!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=😊Greetings!!!😊;Welcome To my Profile!!!;&font=Fira%20Code&center=true&width=380&height=40&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</h1>
 Hi there 👋, My name is Joy Dhar
  I am a Full Stack Web Developer 
 I am currently pursuing a Master's degree in Information Technology with a specialization in Software Development at UTS. Additionally, I work as a Freelancer, leveraging my skills in web designing, web development, and bug fixing. 
