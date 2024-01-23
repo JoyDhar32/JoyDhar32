@@ -1,5 +1,9 @@
  ![App Screenshot](https://raw.githubusercontent.com/JoyDhar32/Portfolio/main/src/httpsjoyuts.com.png) 
-
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Joy Dhar....;Full-Stack Web Developer &center=true&size=30">
+  </a>
+</h1>
 Hi there 👋, My name is Joy Dhar
  I am a Full Stack Web Developer 
 I am currently pursuing a Master's degree in Information Technology with a specialization in Software Development at UTS. Additionally, I work as a Freelancer, leveraging my skills in web designing, web development, and bug fixing. 
