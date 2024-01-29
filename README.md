@@ -82,10 +82,6 @@ I am currently pursuing a Master's degree in Information Technology with a speci
       <br>Github
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=md" width="55" height="55" alt="md" />
-      <br>md
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="vscode" />
       <br>vscode
     </td>
