@@ -10,7 +10,6 @@ I am currently pursuing a Master's degree in Information Technology with a speci
 <div align="center" >
   <img src="https://streak-stats.demolab.com?user=JoyDhar32&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
 <h2 align="left">📊 My Activity Graph:</h2>
 
 [![Your GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoyDhar32&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/JoyDhar32/Problem-Solving)
