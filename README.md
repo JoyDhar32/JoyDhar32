@@ -99,10 +99,6 @@ I am currently pursuing a Master's degree in Information Technology with a speci
     </td>
   </tr>
 </table>
-
-
-
-
 <!--- social media icons, you can find them in assets directory of this repo --->
 <h2 align="left">🌐 Connect with me:</h2>
 
