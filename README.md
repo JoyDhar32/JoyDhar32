@@ -99,7 +99,7 @@ I am currently pursuing a Master's degree in Information Technology with a speci
   <img height="60" alt="Joy Dhar | Facebook" src="https://user-images.githubusercontent.com/60597290/173852508-c8fba934-8e29-45c1-940e-ce45af784d37.png" />
 </a>
 <a href="https://www.instagram.com/joyustcian">
-  <img height="60" alt="Joy Dhar | Instagram"  src="https://user-images.githubusercontent.com/60597290/173852523-c34e15e4-dc3b-4c2a-a5a4-d460b96e4151.png" />
+<img height="60" alt="Joy Dhar | Instagram"  src="https://user-images.githubusercontent.com/60597290/173852523-c34e15e4-dc3b-4c2a-a5a4-d460b96e4151.png" />
 </a>
 <a href="https://twitter.com/JoyDhar92552514">
     <img height="60" src="https://user-images.githubusercontent.com/60597290/173852545-4b8a3257-69ac-42ad-895e-bb842fd60372.png" />
