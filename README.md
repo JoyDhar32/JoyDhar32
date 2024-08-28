@@ -14,11 +14,11 @@ I am currently pursuing a Master's degree in Information Technology with a speci
   <tr>
     <td align="center" widht=90>
       <img src="https://skillicons.dev/icons?i=html" alt="icon" width="55" height="55" />
-      <br>Html
+      <br>HTML
     </td>
     <td align="center" widht=90>
       <img src="https://skillicons.dev/icons?i=css" alt="icon" width="55" height="55" />
-      <br>Css
+      <br>CSS
     </td>
     <td align="center" widht=90>
       <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="55" height="55" />
@@ -26,7 +26,7 @@ I am currently pursuing a Master's degree in Information Technology with a speci
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
-      <br>Javascript
+      <br>JavaScript
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
@@ -67,7 +67,7 @@ I am currently pursuing a Master's degree in Information Technology with a speci
       <br>Java
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/cs.svg" alt="icon" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=cs" alt="icon" width="55" height="55" />
       <br>C#
     </td>
     <td align="center" width="90">
