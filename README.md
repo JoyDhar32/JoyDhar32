@@ -90,6 +90,20 @@ I am currently pursuing a Master's degree in Information Technology with a speci
       <img src="https://skillicons.dev/icons?i=kubernetes" width="45" height="45" alt="kubernetes" />
       <br>Kubernetes
     </td>
+       <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=crystal" width="45" height="45" alt="kubernetes" />
+      <br>Three JS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="kubernetes" />
+      <br>Next JS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="kubernetes" />
+      <br>Tailwind CSS
+    </td>
+
+   
   </tr>
 </table>
 <!--- social media icons, you can find them in assets directory of this repo --->
