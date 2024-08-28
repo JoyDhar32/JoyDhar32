@@ -67,6 +67,10 @@ I am currently pursuing a Master's degree in Information Technology with a speci
       <br>Java
     </td>
     <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/cs.svg" alt="icon" width="55" height="55" />
+      <br>C#
+    </td>
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
       <br>MongoDB
     </td>
@@ -79,12 +83,12 @@ I am currently pursuing a Master's degree in Information Technology with a speci
       <br>Github
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="vscode" />
+      <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="docker" />
       <br>Docker
     </td>
       <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=kubernetes" width="45" height="45" alt="vscode" />
-      <br>Docker
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="45" height="45" alt="kubernetes" />
+      <br>Kubernetes
     </td>
   </tr>
 </table>
