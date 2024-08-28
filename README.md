@@ -79,8 +79,12 @@ I am currently pursuing a Master's degree in Information Technology with a speci
       <br>Github
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" width="45" height="45" alt="vscode" />
-      <br>vscode
+      <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="vscode" />
+      <br>Docker
+    </td>
+      <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="45" height="45" alt="vscode" />
+      <br>Docker
     </td>
   </tr>
 </table>
