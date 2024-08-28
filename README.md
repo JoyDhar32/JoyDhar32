@@ -52,6 +52,10 @@ I am currently pursuing a Master's degree in Information Technology with a speci
       <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
       <br>Laravel
     </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="kubernetes" />
+      <br>Tailwind CSS
+    </td>
   </tr>
   <tr>
     <td align="center" width="90">
@@ -98,10 +102,7 @@ I am currently pursuing a Master's degree in Information Technology with a speci
       <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="kubernetes" />
       <br>Next JS
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="kubernetes" />
-      <br>Tailwind CSS
-    </td>
+
 
    
   </tr>
