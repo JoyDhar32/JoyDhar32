@@ -102,9 +102,6 @@ I am currently pursuing a Master's degree in Information Technology with a speci
       <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="kubernetes" />
       <br>Next JS
     </td>
-
-
-   
   </tr>
 </table>
 <!--- social media icons, you can find them in assets directory of this repo --->
