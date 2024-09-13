@@ -111,7 +111,6 @@ I am currently pursuing a Master's degree in Information Technology with a speci
 <a href="https://www.linkedin.com/in/joy-dhar-2689ab191/">
   <img height="60" alt="Joy Dhar | LinkedIn"  src="https://user-images.githubusercontent.com/60597290/173852531-4343e250-e3cb-4bdb-b84f-50695c64aa12.png"/>
 </a> 
-
 <a href="https://twitter.com/JoyDhar92552514">
     <img height="60" src="https://user-images.githubusercontent.com/60597290/173852545-4b8a3257-69ac-42ad-895e-bb842fd60372.png" />
 </a> 
