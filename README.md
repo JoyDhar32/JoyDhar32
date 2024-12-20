@@ -1,5 +1,5 @@
 
- [![367](https://github.com/user-attachments/assets/ba4126c2-e83a-471b-8fe6-9d5b140ba55f)]([https://joy-dhar.vercel.app](https://leetcode.com/u/JoyDhar32/)) 
+ [![367](https://github.com/user-attachments/assets/ba4126c2-e83a-471b-8fe6-9d5b140ba55f)]([https://joy-dhar.vercel.app](https://leetcode.com/u/JoyDhar32) 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=😊Greetings!!!😊;Welcome To my Profile!!!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
