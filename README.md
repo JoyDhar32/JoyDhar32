@@ -1,6 +1,6 @@
 
 
- ![Screenshot 2024-12-31 224043](https://github.com/user-attachments/assets/aa1612a6-087f-48ce-96a9-dc2433b23e02)(https://leetcode.com/u/JoyDhar32) 
+ [![Screenshot 2024-12-31 224043](https://github.com/user-attachments/assets/aa1612a6-087f-48ce-96a9-dc2433b23e02)](https://leetcode.com/u/JoyDhar32)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=😊Greetings!!!😊;Welcome To my Profile!!!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
