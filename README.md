@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=😊Greetings!!!😊;Welcome To my Profile!!!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 Hi there 👋, My name is Joy Dhar
-I am a Full Stack Web Developer 
+I am a Full Stack Software Developer 
 I have completed my a Master's degree in Information Technology with a specialization in Software Development at UTS. Currently working as a Research and Development Intern at Telecom Research Unit UTS.  Additionally, I work as a Freelancer, leveraging my skills in web designing, web development, and bug fixing. 
 <h2 align="left">📊 My Activity Graph:</h2>
 [![Your GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoyDhar32&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/JoyDhar32/Problem-Solving)
