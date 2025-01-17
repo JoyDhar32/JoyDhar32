@@ -102,7 +102,6 @@ I have completed my a Master's degree in Information Technology with a specializ
     </td>
   </tr>
 </table>
-
 <h2 align="left">🌐 Connect with me:</h2>
 <a href="https://joy-dhar.vercel.app">
     <img height="60" src="https://user-images.githubusercontent.com/60597290/173854214-c646c175-420c-40a6-b994-25acf90dcac4.png" />
