@@ -101,6 +101,7 @@ I have completed my a Master's degree in Information Technology with a specializ
       <br>Next JS
     </td>
   </tr>
+ 
 </table>
 <h2 align="left">🌐 Connect with me:</h2>
 <a href="https://joy-dhar.vercel.app">
