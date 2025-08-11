@@ -1,6 +1,6 @@
  [![cover](https://github.com/user-attachments/assets/c28407e3-c136-4bc1-800e-ff2c678bee35)](https://leetcode.com/u/JoyDhar32)
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=😊Greetings!!!😊;Welcome To my Profile!!!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=😊Greetings!!!😊;Welcome To my Profile!!!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 Hi there 👋, I am Joy
 A Full Stack Software Developer 
