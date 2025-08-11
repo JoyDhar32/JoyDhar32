@@ -1,15 +1,18 @@
  [![cover](https://github.com/user-attachments/assets/c28407e3-c136-4bc1-800e-ff2c678bee35)](https://leetcode.com/u/JoyDhar32)
 Hi there 👋, I am Joy
 A Full Stack Software Developer 
-holding a Master degree of Information Technology from the University of Technology Sydney, with a passion for building robust and scalable full-stack web applications. My journey into development began in my school days, and it has since evolved into a professional career spanning over four years, marked by continuous learning and hands-on experience across diverse projects.
+holding a Master degree of Information Technology from the University of Technology Sydney, with a passion for building robust and scalable full-stack web applications. My coding journey began in my school days, and over the past four years, I've had the privilege of working on a wide range of projects, from professional corporate roles to a research internship and extensive freelance work. I'm always driven by a desire to turn complex problems into elegant, efficient, and user-friendly software solutions.
 
-My recent experience includes a full-time developer role at Jaggards, where I specialized in customizing and automating Dynamics 365 Business Central and developing ecommerce solutions and APIs. Prior to that, I was selected for a research internship at the UTS Telecom Research Unit, where I developed a full-stack system to prevent network outages for a government project, using a tech stack that included React, Next.js, C#, and Azure CI/CD pipelines. This was preceded by four years as a successful freelance full-stack developer on Fiverr, completing over 160 projects for clients worldwide, which honed my skills in Microservices, e-commerce solutions, and effective client communication.
+My professional experience is diverse and hands-on:
 
-During my time at UTS, I was honored with an Academic Excellence Scholarship for my Master's degree. I'm proficient in a wide array of technologies, including front-end frameworks like React and Next.js, back-end languages and frameworks such as C# (.NET Core), PHP (Laravel), and JavaScript (Node.js), and databases like SQL Server, MySQL, and MongoDB. My expertise also extends to DevOps with Azure CI/CD and Docker, cloud platforms like Azure and AWS, and architectural concepts like Microservices and MVC.
+Inhouse Developer at Jaggards: I focused on customizing and automating Dynamics 365 Business Central, developed Power Automate flows, and built APIs and ecommerce solutions. I also managed custom WordPress projects, WooCommerce integrations, and server deployments on Azure and Kinsta.
 
-I'm a problem-solver at heart, with a strong foundation in Data Structures & Algorithms, and I'm always eager to learn new technologies and contribute to team success. I am driven by the challenge of turning complex problems into elegant, efficient software solutions.
-<h2 align="left">📊 My Activity Graph:</h2>
+Research Intern at UTS: I was solely selected for an internship with the Telecom Research Unit, where I developed a full-stack system to prevent network outages for a government project. The tech stack included React, Next.js, C#, .NET Core, and MySQL. This role also involved setting up CI/CD pipelines and managing Azure deployments.
 
+Freelance Developer: I successfully completed over 160 projects for clients worldwide, specializing in Microservices, ecommerce solutions, and various other web development tasks. This experience honed my problem-solving skills and my ability to work independently.
+
+I'm a believer in continuous learning and enjoy exploring new technologies. My passion for coding and problem-solving is what drives me to create meaningful projects. I'm always open to connecting with fellow developers and contributing to the open-source community. Let's build something great together!
+I am proficient in a broad range of technologies and concepts:
 ## ⚡ MY Skills
 <table align="center">
   <tr>
