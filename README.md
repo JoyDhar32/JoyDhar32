@@ -6,10 +6,14 @@ Hi there 👋, I am Joy
 A Full Stack Software Developer 
 I have completed my a Master's degree in Information Technology with a specialization in Software Development at UTS. Currently working as a Research and Development Intern at Telecom Research Unit UTS.  Additionally, I work as a Freelancer, leveraging my skills in web designing, web development, and bug fixing. 
 <h2 align="left">📊 My Activity Graph:</h2>
-[![Your GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoyDhar32&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/JoyDhar32/Problem-Solving)
+
 ## ⚡ MY Skills
 <table align="center">
   <tr>
+      <td align="center" widht=90>
+      <img src="https://skillicons.dev/icons?i=dotnet" alt="icon" width="55" height="55" />
+      <br>Dotnet Core
+    </td>
     <td align="center" widht=90>
       <img src="https://skillicons.dev/icons?i=html" alt="icon" width="55" height="55" />
       <br>HTML
