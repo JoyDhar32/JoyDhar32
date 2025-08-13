@@ -1,5 +1,5 @@
  [![cover](https://github.com/user-attachments/assets/c28407e3-c136-4bc1-800e-ff2c678bee35)](https://leetcode.com/u/JoyDhar32)
-Hi there, I'm Joy Dhar! 👋 </ br>
+Hi there, I'm Joy Dhar! 👋 <br>
 I'm a passionate full-stack developer with a Master's in IT from the University of Technology Sydney.
 
 I have over four years of experience building software, including over 160 freelance projects. I recently worked as a Junior Software Developer at Jaggards, creating custom solutions for Microsoft Dynamics 365 Business Central using technologies like AL, React JS, Power Apps, and Power Automate. I also developed APIs and automated data flows to connect ERP and e-commerce platforms.
