@@ -49,10 +49,6 @@ I am a detail-oriented problem-solver dedicated to creating scalable, high-quali
       <br>React
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
-      <br>WordPress
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
       <br>PHP
     </td>
@@ -75,12 +71,8 @@ I am a detail-oriented problem-solver dedicated to creating scalable, high-quali
       <br>C++
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" />
-      <br>Java
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cs" alt="icon" width="55" height="55" />
-      <br>C#
+      <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
+      <br>WordPress
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="kubernetes" />
