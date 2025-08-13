@@ -20,10 +20,6 @@ I am a detail-oriented problem-solver dedicated to creating scalable, high-quali
 ## ⚡ MY Skills
 <table align="center">
   <tr>
-      <td align="center" widht=90>
-      <img src="https://skillicons.dev/icons?i=dotnet" alt="icon" width="55" height="55" />
-      <br>Dotnet Core
-    </td>
     <td align="center" widht=90>
       <img src="https://skillicons.dev/icons?i=html" alt="icon" width="55" height="55" />
       <br>HTML
@@ -87,8 +83,8 @@ I am a detail-oriented problem-solver dedicated to creating scalable, high-quali
       <br>C#
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
-      <br>MongoDB
+      <img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="kubernetes" />
+      <br>AWS
     </td>
     <td align="center" widht=90>
       <img src="https://skillicons.dev/icons?i=git" alt="icon" width="55" height="55" />
