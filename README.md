@@ -1,18 +1,22 @@
  [![cover](https://github.com/user-attachments/assets/c28407e3-c136-4bc1-800e-ff2c678bee35)](https://leetcode.com/u/JoyDhar32)
-Hi there 👋, I am Joy
-A Full Stack Software Developer 
-holding a Master degree of Information Technology from the University of Technology Sydney, with a passion for building robust and scalable full-stack web applications. My coding journey began in my school days, and over the past four years, I've had the privilege of working on a wide range of projects, from professional corporate roles to a research internship and extensive freelance work. I'm always driven by a desire to turn complex problems into elegant, efficient, and user-friendly software solutions.
+Hi there, I'm Joy Dhar! 👋
+I'm a passionate full-stack developer with a Master's in IT from the University of Technology Sydney.
 
-My professional experience is diverse and hands-on:
+I have over four years of experience building software, including over 160 freelance projects. I recently worked as a Junior Software Developer at Jaggards, creating custom solutions for Microsoft Dynamics 365 Business Central using technologies like AL, React JS, Power Apps, and Power Automate. I also developed APIs and automated data flows to connect ERP and e-commerce platforms.
 
-Inhouse Developer at Jaggards: I focused on customizing and automating Dynamics 365 Business Central, developed Power Automate flows, and built APIs and ecommerce solutions. I also managed custom WordPress projects, WooCommerce integrations, and server deployments on Azure and Kinsta.
+During my research internship at UTS, I helped create a full-stack web platform to improve network outage resiliency. I used technologies like Tailwind CSS, React JS, Next JS, Laravel, and MySQL. I also completed the Study Australia Industry Experience Program, where I improved my teamwork and client communication skills.
 
-Research Intern at UTS: I was solely selected for an internship with the Telecom Research Unit, where I developed a full-stack system to prevent network outages for a government project. The tech stack included React, Next.js, C#, .NET Core, and MySQL. This role also involved setting up CI/CD pipelines and managing Azure deployments.
+My technical skills include:
 
-Freelance Developer: I successfully completed over 160 projects for clients worldwide, specializing in Microservices, ecommerce solutions, and various other web development tasks. This experience honed my problem-solving skills and my ability to work independently.
+Languages & Frameworks: PHP, JavaScript, TypeScript, React JS, Next.js, Vue, Laravel, and Node.js.
 
-I'm a believer in continuous learning and enjoy exploring new technologies. My passion for coding and problem-solving is what drives me to create meaningful projects. I'm always open to connecting with fellow developers and contributing to the open-source community. Let's build something great together!
-I am proficient in a broad range of technologies and concepts:
+Databases: PostgreSQL and MySQL.
+
+Cloud & DevOps: AWS, Docker, Kubernetes, CI/CD, and REST APIs.
+
+Architecture: Microservices, MVC, and event-driven systems like Kafka.
+
+I am a detail-oriented problem-solver dedicated to creating scalable, high-quality solutions. I'm excited to join a team where I can continue to grow and make a positive impact.
 ## ⚡ MY Skills
 <table align="center">
   <tr>
