@@ -2,13 +2,13 @@
 <h2>Hi there, I'm Joy Dhar! 👋 </h2><br>
 I'm a passionate full-stack developer with a Master's in IT from the University of Technology Sydney.
 
-I have over four years of experience building software, including over 160 freelance projects. I recently worked as a Junior Software Developer at Jaggards, creating custom solutions for Microsoft Dynamics 365 Business Central using technologies like AL, React JS, Power Apps, and Power Automate. I also developed APIs and automated data flows to connect ERP and e-commerce platforms.
+I have over four years of experience building software, including over 160 freelance projects. I recently worked as a In House Software Developer at Jaggards, creating custom solutions for Microsoft Dynamics 365 Business Central using technologies like AL, React JS, Power Apps, and Power Automate. I also developed APIs and automated data flows to connect ERP and e-commerce platforms.
 
 During my research internship at UTS, I helped create a full-stack web platform to improve network outage resiliency. I used technologies like Tailwind CSS, React JS, Next JS, Laravel, and MySQL. I also completed the Study Australia Industry Experience Program, where I improved my teamwork and client communication skills.
 
 My technical skills include:
 
-Languages & Frameworks: PHP, JavaScript, TypeScript, React JS, Next.js, Vue, Laravel, and Node.js.
+Languages & Frameworks: PHP, C#, JavaScript, TypeScript, React JS, Next.js, Vue, Laravel,Asp Dotnet Core and Node.js.
 
 Databases: PostgreSQL and MySQL.
 
